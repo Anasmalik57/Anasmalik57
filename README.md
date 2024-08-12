@@ -29,16 +29,11 @@ Welcome to my GitHub profile! I'm an enthusiastic learner with a keen interest i
 ## About Me
 I'm passionate about creating clean, user-friendly web applications that solve real-world problems. My journey in web development began with basic web technologies like HTML and CSS, where I learned to craft visually appealing and responsive layouts. As I delved deeper into JavaScript, I discovered the power of dynamic and interactive web experiences, leading me to explore frontend frameworks like React.js.
 * 🌍  I'm from Roorkee 
-* 🖥️  See my Project at [Projects](https://vercel.com/anasmalik57s-projects)
-* 🧠  I'm learning Nodejs
+* 🖥️  See my Project at [Projects](https://vercel.com/anasmalik57s-projects/)
 * ✉️  You can contact me at [itsanas430@gmail.com](mailto:itsanas430@gmail.com)
-
-## What I'm Working On
-Currently, I'm diving into the world of backend development with Node.js. I'm excited to learn how to build scalable and efficient server-side applications, along with exploring database technologies like MongoDB for storing and managing data. My next step is to master Express.js to create RESTful APIs that power dynamic frontend applications.
-
-
+* 
 ## My Projects
-One of my recent projects is a simple yet useful password generator created using Tailwind CSS and JavaScript. It allows users to generate strong and secure passwords with ease. I deployed this project on Vercel, and you can check it out [here](https://vercel.com/anasmalik57s-projects). Be sure to take a look at the GitHub repository for the source code and feel free to provide any feedback or suggestions!
+I created many Projects using MERN. You must check them [here](https://vercel.com/anasmalik57s-projects). Be sure to take a look at the GitHub repository for the source code and feel free to provide any feedback or suggestions!
 
 ## Get in Touch
 I'm always open to collaboration opportunities and eager to connect with fellow developers. Whether you're interested in discussing web development, sharing project ideas, or simply chatting about tech, don't hesitate to reach out! You can connect with me on LinkedIn, explore my portfolio website, or follow me on Instagram.
