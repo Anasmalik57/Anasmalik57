@@ -30,8 +30,7 @@ Welcome to my GitHub profile! I'm an enthusiastic learner with a keen interest i
 I'm passionate about creating clean, user-friendly web applications that solve real-world problems. My journey in web development began with basic web technologies like HTML and CSS, where I learned to craft visually appealing and responsive layouts. As I delved deeper into JavaScript, I discovered the power of dynamic and interactive web experiences, leading me to explore frontend frameworks like React.js.
 * 🌍  I'm from Roorkee 
 * 🖥️  See my Project at [Projects](https://vercel.com/anasmalik57s-projects/)
-* ✉️  You can contact me at [itsanas430@gmail.com](mailto:itsanas430@gmail.com)
-* 
+* ✉️  You can contact me at [itsanas430@gmail.com](mailto:itsanas430@gmail.com). 
 ## My Projects
 I created many Projects using MERN. You must check them [here](https://vercel.com/anasmalik57s-projects). Be sure to take a look at the GitHub repository for the source code and feel free to provide any feedback or suggestions!
 
