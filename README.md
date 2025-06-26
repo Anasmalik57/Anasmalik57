@@ -137,7 +137,5 @@ I'm always excited to connect with fellow developers, potential collaborators, a
 
 **⭐ From [Anasmalik57](https://github.com/Anasmalik57) with ❤️**
 
-*Last updated: December 2024*
-
 </div>
 ```
