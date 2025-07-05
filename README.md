@@ -40,9 +40,7 @@ const anasmalik = {
 };
 ```
 
-<div align="center">
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pwdXVla2pocWpoOWxqNnBkM2c4YXVtdHNqN3RzbWducnliNDlreCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp" />
-</div>
+
 
 🔭 **Currently working on:** Building scalable web applications with Next.js 14 and React 18  
 🌱 **Learning:** React Native & Framer Motion  
