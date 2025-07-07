@@ -50,34 +50,17 @@ const anasmalik = {
 ⚡ **Fun fact:** I love turning complex problems into simple, elegant solutions!
 
 ---
-## 📊 GitHub Stats:
 
-<div align="center">
-
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anasmalik57&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anasmalik57&theme=radical">
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anasmalik57&layout=compact&theme=radical&hide_border=true">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anasmalik57&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anasmalik57&theme=radical&utcOffset=8">
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=Anasmalik57&show_icons=true&locale=en&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anasmalik57&theme=radical">
-
-
-</div>
 
 ## 📊 **GitHub Analytics & Activity**
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anasmalik57&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anasmalik57&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anasmalik57&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anasmalik57&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true&hide_border=true" alt="GitHub Activity Graph" />
+    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anasmalik57&theme=tokyonight">
+    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anasmalik57&theme=tokyonight">
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anasmalik57&layout=compact&theme=tokyonight&hide_border=true">
+    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anasmalik57&theme=tokyonight">
+    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anasmalik57&theme=tokyonight&utcOffset=8">
+    <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Anasmalik57&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false">
+    <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anasmalik57&theme=tokyonight&hide_border=true&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=C9D1D9">
 </div>
 
 ### 📈 **Contribution Stats**
@@ -88,8 +71,11 @@ const anasmalik = {
 ![Issues Solved](https://img.shields.io/badge/Issues_Solved-25%2B-6366F1?style=for-the-badge&logo=github&logoColor=white)
 ![Repositories](https://img.shields.io/badge/Public_Repos-30%2B-6366F1?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
 
+
+
+
+</div>
 ---
 
 ### **Expertise Level**
