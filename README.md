@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;MERN+Stack+Expert;Next.js+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
 
----
-
 ### 🌟 **Crafting Digital Experiences from Roorkee, India**
 
 *Passionate about building modern, scalable, and user-centric web applications*
@@ -27,15 +25,15 @@
 ```javascript
 const anasmalik = {
     location: "Roorkee, India 🇮🇳",
-    education: "BCA Student | Islamia Degree College Deoband",
+    education: "BCA Graduate | Maa Shakumbhari University Saharanpur",
     graduation: "June 2025",
     currentFocus: "Full Stack Development & Modern Web Technologies",
-    experience: "Internship at Febtech IT Solutions Limited",
+    experience: ["AWS Solution Architect Job Simulation","Internship at Febtech IT Solutions Limited"],
     passion: "Solving real-world problems through innovative code",
     availability: "Open for collaboration and opportunities",
-    specialization: ["MERN Stack", "Next.js", "React.js", "Node.js"],
+    specialization: ["MERN Stack", "Next.js", "React.js", "React-Native"],
     currentlyLearning: ["React Native", "Framer Motion"],
-    askMeAbout: ["Web Development", "JavaScript", "React", "Node.js"],
+    askMeAbout: ["Web Development", "JavaScript", "ReactJS", "NextJS", "React-Native"],
     funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
 ```
@@ -76,7 +74,6 @@ const anasmalik = {
 
 
 </div>
----
 
 ### **Expertise Level**
 ```
@@ -101,11 +98,7 @@ Git/GitHub          ███████████████████  8
 
 I'm always excited to connect with fellow developers, potential collaborators, and innovative companies. Whether you want to discuss:
 
-🚀 **Full Stack Development Projects**  
-💡 **Innovative Startup Ideas**  
-🤝 **Open Source Collaborations**  
-📚 **Knowledge Sharing & Mentoring**  
-💼 **Job Opportunities**
+🚀 **Full Stack Projects** | 🤝 **Open Source Collaborations** |📚 **Knowledge Sharing & Mentoring** | 💼 **Job Opportunities**
 
 ### 📍 **Location & Availability**
 ```
@@ -127,6 +120,7 @@ I'm always excited to connect with fellow developers, potential collaborators, a
 
 **Thanks for visiting my profile! Let's build something amazing together!** 🚀
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://anasmalikportfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsanas474@gmail.com)
 
 ---
@@ -136,4 +130,4 @@ I'm always excited to connect with fellow developers, potential collaborators, a
 **⭐ From [Anasmalik57](https://github.com/Anasmalik57) with ❤️**
 
 </div>
-```
+
