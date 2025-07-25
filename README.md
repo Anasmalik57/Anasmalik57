@@ -57,8 +57,8 @@ const anasmalik = {
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anasmalik57&layout=compact&theme=tokyonight&hide_border=true">
     <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anasmalik57&theme=tokyonight">
     <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anasmalik57&theme=tokyonight&utcOffset=8">
-    <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Anasmalik57&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false">
-    <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anasmalik57&theme=tokyonight&hide_border=true&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=C9D1D9">
+    <img width="100%" height="166em" src="https://github-readme-stats.vercel.app/api?username=Anasmalik57&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false">
+    
 </div>
 
 ### 📈 **Contribution Stats**
