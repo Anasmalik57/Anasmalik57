@@ -185,11 +185,6 @@ const anasmalik = {
 
 </div>
 
-### 🏆 **GitHub Achievements**
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anasmalik57&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
@@ -371,14 +366,10 @@ graph LR
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anasmalikportfolio.vercel.app/)
-[![Hire Me](https://img.shields.io/badge/Hire_Me_Now-00C853?style=for-the-badge&logo=upwork&logoColor=white)](mailto:itsanas474@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anasmalik57/)
-[![Resume](https://img.shields.io/badge/Download_Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](#)
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anasmalikportfolio.vercel.app)
+[![Hire Me](https://img.shields.io/badge/Hire_Me_Now-00C853?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/2KNzxeq)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anasmalik57)
+[![Resume](https://img.shields.io/badge/Download_Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://anasmalikportfolio.vercel.app/resume.pdf)
 
 </div>
 
@@ -390,7 +381,6 @@ graph LR
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=400&lines=What+People+Say" alt="Testimonials" />
 
-<br><br>
 
 > *"Delivered ahead of schedule with excellent quality. Great communication!"*  
 > **— Happy Client**
@@ -404,19 +394,6 @@ graph LR
 </div>
 
 ---
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=400&lines=Daily+Coding+Stats" alt="Activity" />
-
-<br><br>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
 
 ---
 
